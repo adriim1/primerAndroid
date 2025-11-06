@@ -28,8 +28,6 @@ La aplicación utiliza un tema personalizado inspirado en el Pokémon **Gengar**
 
 ## Capturas de Pantalla
 
-*(Aquí puedes añadir capturas de pantalla de la aplicación para ilustrar su funcionamiento)*
-
 -   *Captura de la Splash Screen*
 - ![img.png](img.png)
 -   *Captura de la pantalla de Login*
